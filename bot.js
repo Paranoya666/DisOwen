@@ -181,7 +181,7 @@ if (config.BOTLOG) {
 
 } 
 console.log("+===========================================================+")
-console.log("|                     ✨Owen Userbot✨                       |")
+console.log("|                     ✨Kabus Userbot✨                       |")
 console.log("+==============+==============+==============+==============+")
 console.log("|                                                            |")
 console.log("Botunuz çalışıyor! Herhangi bir sohbete .alive yazarak Test edin.")
